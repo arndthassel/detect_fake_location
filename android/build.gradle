@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'com.example.detect_fake_location'
+    namespace 'com.xeex.namespace.detect_fake_location'
     
     compileSdkVersion 31
 
